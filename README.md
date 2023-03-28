@@ -1,5 +1,4 @@
 # Testing en ReactJS
-En las lecciones 10 y 11 exploramos el mundo del testing en JS y más concretamente en ReactJS.
 
 ## Introducción al Testing dentro de Javascript
 1. ¿Qué es el testing y para qué sirve?

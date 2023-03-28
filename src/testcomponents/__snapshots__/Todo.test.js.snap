@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo component should chech/uncheck completed/not completed todos matches snapshot 1`] = `
+<div
+  data-testid="todo-test-5"
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "justifyContent": "center",
+    }
+  }
+>
+  <label>
+    <input
+      checked={true}
+      data-testid="checkbox"
+      onChange={[Function]}
+      type="checkbox"
+    />
+  </label>
+  <p>
+    hacer la compra 2
+  </p>
+</div>
+`;
